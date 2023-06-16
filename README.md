@@ -1,10 +1,10 @@
-### Olá Pessoal! Eu sou o Diego Ferreira vulgo Diegoi07 😁
+### Olá Pessoal! Eu sou o Diego Ferreira vulgo MrDieggo 😁
 
 - 🕵️‍♂️ Trabalhando atualmente com Segurança da Informação
 - 👨‍🏫 Estudando JavaScript
 
 <div align="center">
-  <a href="https://github.com/Diegoi07">
+  <a href="https://github.com/MrDiego">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrDieggo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDieggo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
