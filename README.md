@@ -1,4 +1,4 @@
-### Olá Pessoal! Eu sou o Diego Ferreira vulgo MrDieggo 😁
+### Olá Pessoal! Eu sou o Diego Ferreira 😁
 
 - 🕵️‍♂️ Trabalhando atualmente com Segurança da Informação
 - 👨‍🏫 Estudando JavaScript
